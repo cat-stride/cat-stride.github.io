@@ -4,7 +4,9 @@
 
 ### 第一部分：issue
 
+
 - 团队名称：Cat Stride（项目名称待定）  
+
 - 团队项目协作仓库地址：[https://github.com/cat-stride/](https://github.com/cat-stride/)
 
 - 项目概述   
@@ -39,6 +41,7 @@
         - 在微信群中的昵称：大猫黄
         - GitHub:https://github.com/simpleowen
         - 现役PB工程师，用python漫游新世界中
+
     - @shippo  
         - 分工  码代码，写文案，观察员 σ`∀´)σ  
         - 在微信群中的昵称：shippo  
@@ -49,11 +52,11 @@
         - 在微信群中的昵称:_Tan(O_O)
         - GitHub : [tyfff](https://github.com/tyfff)
         - 个人简介:编程小白，学习python遇到很多困难，还在泥沼中挣扎...不过会尽力坚持。在大作业里的跟着各位大神所有的经历都可以作为学习，对此非常期待:)  
+
     - @sardine2
-        - 分工：项目过程一切记录；
+        - 分工：产品，项目过程一切记录；
         - 在微信群中的昵称：沙丁
-        - GitHub 用户名，仓库/GitBook 链接
-          [gitbook](https://sardine2.gitbooks.io/so-many-mistakes-i-made-when-learning-python/content/) github ID ：[sardine2 ](https://github.com/sardine2)
+        - GitHub 用户名，仓库/GitBook 链接[gitbook](https://sardine2.gitbooks.io/so-many-mistakes-i-made-when-learning-python/content/) github ID ：[sardine2 ](https://github.com/sardine2)
         - 个人简介:学习python课程过程这一个多月，作为编程小白踩了无数坑给自己埋了无数雷，虽然有过迷茫和焦虑，但逐渐摸索到编程的乐趣，希望能通过这次大作业体验一个项目从构思到最终成型的过程，进一步巩固知识，学习大家的编程思维，最主要的是跟着学霸编程感觉太好啦！
 
 
