@@ -4,7 +4,8 @@
 
 ### 第一部分：issue
 
-- 项目名称：Cat Stride（项目名称待定）
+
+- 团队名称：Cat Stride（项目名称待定）  
 
 - 团队项目协作仓库地址：[https://github.com/cat-stride/](https://github.com/cat-stride/)
 
@@ -40,16 +41,18 @@
         - 在微信群中的昵称：大猫黄
         - GitHub:https://github.com/simpleowen
         - 现役PB工程师，用python漫游新世界中
-    - @shippo
-        - 分工：码代码，写文案，观察员 σ`∀´)σ
-        - 在微信群中的昵称:shippo
-        - GitHub:[https://github.com/shippomiru](https://github.com/shippomiru)
-        - 现役心理学研究僧，角色转换中，新鲜好玩儿的我都喜欢～
+
+    - @shippo  
+        - 分工  码代码，写文案，观察员 σ`∀´)σ  
+        - 在微信群中的昵称：shippo  
+        - GitHub:https://github.com/shippomiru  
+        - 现役心理学研究僧，角色转换中，新鲜好玩儿的我都喜欢～ 
     - @_Tan
-        - 分工:产品
-        - 在微信群中的昵称：_Tan(O_O)
-        - GitHub：[tyfff](https://github.com/tyfff)
-        - 编程小白，学习python遇到很多困难，还在泥沼中挣扎...不过会尽力坚持。在大作业里的跟着各位大神所有的经历都可以作为学习，对此非常期待:)
+        - 分工
+        - 在微信群中的昵称:_Tan(O_O)
+        - GitHub : [tyfff](https://github.com/tyfff)
+        - 个人简介:编程小白，学习python遇到很多困难，还在泥沼中挣扎...不过会尽力坚持。在大作业里的跟着各位大神所有的经历都可以作为学习，对此非常期待:)  
+
     - @sardine2
         - 分工：产品，项目过程一切记录；
         - 在微信群中的昵称：沙丁
