@@ -8,12 +8,12 @@
 - 团队项目协作仓库地址：[https://github.com/cat-stride/](https://github.com/cat-stride/)
 
 - 项目概述   
-    缘起：项目idea由@gogu提起，他实践过 Bullet Journal (子弹笔记,BuJo®),并有过想将它做成web端的想法。
+    缘起：项目idea由@gogu提出，他实践过 Bullet Journal (子弹笔记,BuJo®),并有过想将它做成web端的想法。
 
     BuJo®是一种笔记方法，由纽约设计师 Ryder Carroll 所创，是一种高效、简洁的纸质笔记方法。
 
 - 项目简介
-    将 Bullet Journal 电子化，实现在web端和微信端都能**随性**、**快速**、**简洁**记录各类事物，如to-do list、灵感、笔记、博客等，把所有当下出现的新任务、未来事件、关键笔记，用「简单具体的一句描述」写下，并在书写同时用符号标记直接标记以便日后整理（符号可根据文件内容随时更改）。
+    将 Bullet Journal 电子化，实现在web端和微信端都能**随性**、**快速**、**简洁**记录各类事物，如to-do list、灵感、笔记、博客等，把所有当下出现的新任务、未来事件、关键笔记，用「简单具体的一句描述」写下，并在书写同时用符号标记直接标记以便日后整理。
 
 **版权问题：**@sardine2同学已于20170223早上9:00发邮件给Ryder Carroll请求取得授权使用，目前尚未得到回复。由于本次任务为课程大作业，并无商业用途上的考虑，所以拟先行开发，完成作业。
 
@@ -28,14 +28,14 @@
   3.用户通过与微信机器人的交互实现事物记录。
 
 - 团队成员介绍
-    共五人：@gogu @simpleowen @shippo @_Tan @sardine2
+    共五人： @gogu @simpleowen @shippo @_Tan @sardine2
     - @gogu
-        - 分工 项目基础设施管理，其他再议
+        - 分工：码代码；项目基础设施管理；
         - 在微信群中的昵称：gogu
         - GitHub:https://github.com/gogu
         - 现役前端程序员，转换 python 技术栈中
     - @simpleowen
-        - 分工 队长#请补充具体负责内容
+        - 分工： 码代码
         - 在微信群中的昵称：大猫黄
         - GitHub:https://github.com/simpleowen
         - 现役PB工程师，用python漫游新世界中
@@ -50,7 +50,7 @@
         - GitHub : [tyfff](https://github.com/tyfff)
         - 个人简介:编程小白，学习python遇到很多困难，还在泥沼中挣扎...不过会尽力坚持。在大作业里的跟着各位大神所有的经历都可以作为学习，对此非常期待:)  
     - @sardine2
-        - 分工：#待补充：项目过程一切记录；
+        - 分工：项目过程一切记录；
         - 在微信群中的昵称：沙丁
         - GitHub 用户名，仓库/GitBook 链接
           [gitbook](https://sardine2.gitbooks.io/so-many-mistakes-i-made-when-learning-python/content/) github ID ：[sardine2 ](https://github.com/sardine2)
