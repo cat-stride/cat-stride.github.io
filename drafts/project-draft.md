@@ -4,8 +4,7 @@
 
 ### 第一部分：issue
 
-- 项目名称：Cat-Stride
-
+- 团队名称：Cat Stride（项目名称待定）  
 - 团队项目协作仓库地址：[https://github.com/cat-stride/](https://github.com/cat-stride/)
 
 - 项目概述   
