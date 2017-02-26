@@ -40,11 +40,11 @@
         - 在微信群中的昵称：大猫黄
         - GitHub:https://github.com/simpleowen
         - 现役PB工程师，用python漫游新世界中
-    - @shippo
-        - 分工
-        - 在微信群中的昵称
-        - GitHub 用户名，仓库/GitBook 链接
-        - 140 字以内的个人简介
+    - @shippo  
+        - 分工  码代码，写文案，观察员 σ`∀´)σ  
+        - 在微信群中的昵称：shippo  
+        - GitHub:https://github.com/shippomiru  
+        - 现役心理学研究僧，角色转换中，新鲜好玩儿的我都喜欢～ 
     - @_Tan
         - 分工
         - 在微信群中的昵称:_Tan(O_O)
